@@ -1,0 +1,15 @@
+{
+  "name": "HES Satın Alma Değerlendirmesi",
+  "short_name": "HES Değerleme",
+  "description": "Satılık küçük hidroelektrik santrali için makul fiyat, geri dönüş ve sorulacaklar.",
+  "lang": "tr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f4",
+  "theme_color": "#123a5c",
+  "icons": [
+    { "src": "ikon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "ikon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

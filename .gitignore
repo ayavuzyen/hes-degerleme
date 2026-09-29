@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.json.yedek
+test/_calisma/
+# Santrale ait kayıt dosyaları depoya girmez
+hes-degerleme-*.json
+*-20??-??-??.json
+.claude/
